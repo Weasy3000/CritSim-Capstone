@@ -1,6 +1,4 @@
-===============================
 CRITSIM - INTERACTIVE SIMULATION
-===============================
 
 Thank you for reviewing CritSim, a Java-based interactive critical thinking simulation designed as part of the Capstone Project for CSIS 484 at Liberty University.
 
